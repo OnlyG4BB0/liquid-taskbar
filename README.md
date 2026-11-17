@@ -13,7 +13,7 @@
 
 ## Scarica
 
-👉 **[Scarica l'ultima versione](https://github.com/OnlyG4BB0/liquid-taskbar/releases/latest)**: `LiquidTaskbar-Setup-1.0.3.exe`
+👉 **[Scarica l'ultima versione](https://github.com/OnlyG4BB0/liquid-taskbar/releases/latest)**: `LiquidTaskbar-Setup-1.0.4.exe`
 
 Apri il file e segui il wizard. Non servono permessi di amministratore.
 Al termine la barra è subito attiva e parte da sola a ogni avvio di Windows.
@@ -48,7 +48,7 @@ Per tornare alla taskbar di Windows senza disinstallare: tasto destro sulla barr
 ## Installazione senza finestra
 
 ```
-LiquidTaskbar-Setup-1.0.3.exe --silent
+LiquidTaskbar-Setup-1.0.4.exe --silent
 ```
 
 Installa o aggiorna mantenendo le impostazioni già scelte.
